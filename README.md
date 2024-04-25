@@ -1,14 +1,14 @@
-Hello there! 👋
+### Hello there! 👋
 <p align="left">This is a test! Just pretend you didn't see it... 😜 </p>
 
 <!-- LICENSE -->
-## License
+### License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+### Contact
 
 Andrea Foco - email@email_client.com
 
