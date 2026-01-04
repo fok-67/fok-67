@@ -10,7 +10,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ### Contact
 
-Andrea Foco - email@email_client.com
+Andrea Foco - fok-67@pm.me
 
 <!--
 Project Link: [https://github.com/fok-67/SDL_Test](https://github.com/fok-67/SDL_Test)
